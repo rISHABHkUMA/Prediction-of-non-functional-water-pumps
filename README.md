@@ -15,3 +15,24 @@ Training: https://drive.google.com/file/d/1-E-EfSZcREnhyMe23tluDmzNnS2pWSE_/view
 
 Testing: https://drive.google.com/file/d/1-498FRSmoGj1AqpuPIHU5P8tIwuHEzN1/view?usp=sharing
 
+
+## Data visulization and exploration
+1. It was found that there are certain values missing in the given data. **Multivariate Feature Imputation** is used to estimate these missing values.
+2. High correlation between some features were found. Only one of the highly correlated features was kept and others were dropped(**Feature Reduction**)
+
+## Variable transformation, feature engineering, feature selection or elimination
+1. Dropped the correlated data
+2. converted string to numeric value
+3. changed the construction year to numeric value
+4. Converted all the Date and time related columns to Date_time objects
+
+
+## Algorithms used
+1. XGB Classifier (giving 78% accuracy)
+2. Decision Tree Classifier (giving 74% accuracy)
+3. Random forest classifier (giving 80% accuracy)
+
+
+## Note: 
+If you are trying to run the code in your system then make sure all required libraries and data files are present. ALternatively the notebook code.ipynb can be directly
+uploaded and run on google colab server without any additional installation.
