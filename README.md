@@ -30,7 +30,7 @@ Testing: https://drive.google.com/file/d/1-498FRSmoGj1AqpuPIHU5P8tIwuHEzN1/view?
 ## Algorithms used
 1. XGB Classifier (giving 78% accuracy)
 2. Decision Tree Classifier (giving 74% accuracy)
-3. Random forest classifier (giving 80% accuracy)
+3. Random forest classifier (giving 79% accuracy)
 
 
 ## Note: 
