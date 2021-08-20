@@ -1,4 +1,4 @@
-# Prediction-of-non-functional-water-pumps
+# Prediction of water pumps failure 
 ##  Project Description
 The ministry of water of an African country has made a data set of pumps 
 installed in various places in the country to serve the water for their countrymen. It is a 
